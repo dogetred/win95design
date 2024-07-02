@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Languages",
+    "skills": [
+      "C",
+      "C++",
+      "Javascript",
+      "Typescript",
+      "C#",
+      "Python",
+      "Go",
+      "Kotlin",
+      "and more..."
+    ]
+  },
+  {
+    "title": "Front end",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Vue.js",
+      "Nuxt.js",
+      "React.js",
+      "Next.js",
+      "Astro"
+    ]
+  },
+  {
+    "title": "Developer tools",
+    "skills": [
+      "Git",
+      "VS Code",
+      "Visual Studio",
+      "Photoshop",
+      "bash",
+      "Docker",
+      "and more..."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Site",
+    "technologies": ["Next.js", "TypeScript", "Tailwind"],
+    "description": "My personal website is built using Next.js 13, TypeScript and Tailwind CSS.",
+    "isOpenSource": true,
+    "githubRepo": "https://github.com/dogetred/site"
+  },
+  {
+    "name": "Personal websites",
+    "technologies": ["Javascript"],
+    "description": "Personal websites of my good friend and companies",
+    "isOpenSource": false,
+    "githubRepo": "https://github.com/leotred"
+  },
+  {
+    "name": "WMS",
+    "technologies": ["Next.js", "TypeScript", "Tailwind"],
+    "description": "Non-opensource Warehouse Management System",
+    "isOpenSource": false,
+    "githubRepo": "https://github.com/dogetred"
+  },
+  {
+    "name": "Personal Website (win-95 version)",
+    "technologies": ["Vue.js", "Typescript"],
+    "description": "this.",
+    "isOpenSource": false,
+    "githubRepo": "https://github.com/dogetred/win95design"
+  }
+]
